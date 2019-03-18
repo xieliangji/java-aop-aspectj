@@ -8,10 +8,7 @@ import started.Started;
 public class Main {
 
       public static void main(String[] args) {
-            Started started = new Started();
 
-            String greeting = started.greeting("Hey");
-            System.out.println(greeting);
       }
 
 }
